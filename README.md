@@ -1,4 +1,4 @@
-# Near-nft-staking-contract
+# Near-nft-staking-contrac
 
 ## Stake
 
